@@ -1,0 +1,12 @@
+{
+  "name": "Prostinya",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "iconv": "^2.1.8",
+    "node-xlsx": "^0.5.1",
+    "nomnom": "^1.8.1",
+    "swig": "^1.4.2"
+  },
+  "devDependencies": {}
+}
